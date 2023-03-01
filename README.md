@@ -11,7 +11,6 @@
 - [Clonando Repositório](#clonando-repositório)
 - [Instalando Dependências](#instalando-dependências)
 - [Executando Aplicação](#executando-aplicação)
-- [Executando Testes](#executando-testes)
 
 ---
 
@@ -76,20 +75,6 @@
 * Inicie o projeto
   ```sh
     npm start
-  ```
-
----
-
-## Executando Testes
-
-* Entre na pasta do repositório que você clonou:
-  ```sh
-    cd trivia
-  ```
-
-* Rode os testes
-  ```sh
-    npm test
   ```
 
 ---
